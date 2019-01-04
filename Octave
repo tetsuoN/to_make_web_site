@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400, 600' rel='stylesheet' type='text/css'>
+    <link href='style.css' rel='stylesheet' type='text/css'/>
+  </head>
+
+  <body>
+    
+    <header>
+        <nav>
+          <ul>
+            <li><a href="#about"><font color="#ffffff"> About </font></a></li> 
+            <li> Work </li> 
+            <li> team </li> 
+            <li> About US </li>
+          </ul>
+        </nav>
+    </header>
+
+    <main>
+      <div id="about">
+      <div class="jumbotron">
+        <div class="container">  
+          <h1>Octave Rooftop<br> Lounge & Bar</h1>
+          <a href="#" class="btn-main"> Entered </a>
+        </div>
+      </div>
+    </main>
+
+    <section class="supporting">
+      <div class="container">
+        
+        <div class="col">
+          <img src="Food.png">
+          <h2>Food</h2>
+          <p>You can enjoy various contries Food</p>
+          <a href="#"> Learn More</a><br>
+        </div>
+        
+        <div class="col">
+          <img src="Drink.svg">
+          <h2>Drink</h2>
+          <p>It could be provide affordable prices</p>
+          <a href="#"> Learn More</a><br>
+        </div>
+        
+        <div class="col">
+          <img src="Service.png">
+          <h2>Other Services</h2>
+          <p>Please inquiry another our services</p>
+          <a href="#"> Learn More</a><br>
+        </div>
+        
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <p>&copy; Bangkok Marriott Hotel Sukhumvit
+
+2 Sukhumvit Road Soi 57 · Bangkok 10110
+
++66-2-7970000</p>
+      </div>
+    </footer>
+    
+  </body>
+</html>
